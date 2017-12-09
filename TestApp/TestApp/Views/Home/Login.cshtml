@@ -1,0 +1,70 @@
+﻿@{
+    Layout = null;
+}
+
+
+
+
+<!DOCTYPE html>
+
+
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>Log'n Load</title>
+
+
+    
+
+
+
+
+
+    <link href="~/Style/StyleSheet3.css" rel="stylesheet" />
+
+
+</head>
+
+<body>
+
+    <div>
+
+        
+        <header><h2 align="center">Ticket Registration</h2></header>
+        
+        <div>
+        <form id="form" action="/Home/Login2" method="get">
+
+            <label>Ticket ID:</label><input id="name" type="text" id="ticketid" name="ticketid"><br />
+            <label>Ticket Type:</label><input id="email" type="text" id="ttype" name="ttype"><br />
+            <label>Assigned To:</label><input id="email" type="text" id="assignedto" name="assignedto"><br />
+            <label>Status:</label><input type="text" name="status"><br />
+            <label>Ticket Details:</label><textarea id="message" type="text" id="tdetails" name="tdetails"></textarea><br/>
+            
+            <input type="hidden" name="tweetid" value=@ViewBag.tweetid>
+           
+            <input id="submit" type="submit" value="GO!">
+
+        </form>
+            </div>
+
+    </div>
+
+
+    @if (@ViewBag.message == "wrong password")
+    {<h1>@ViewBag.message</h1>}
+
+
+    </script>
+
+
+</body>
+
+</html>
+
+
+

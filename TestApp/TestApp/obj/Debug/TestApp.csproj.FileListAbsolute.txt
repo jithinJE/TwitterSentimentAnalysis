@@ -1,0 +1,112 @@
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\ApplicationInsights.config
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\TestApp.dll.config
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\TestApp.dll
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\TestApp.pdb
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\Antlr3.Runtime.dll
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\Microsoft.AI.Web.dll
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\Microsoft.ApplicationInsights.dll
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\Newtonsoft.Json.dll
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\System.Web.Helpers.dll
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\System.Web.Mvc.dll
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\System.Web.Optimization.dll
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\System.Web.Razor.dll
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\System.Web.WebPages.Deployment.dll
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\System.Web.WebPages.dll
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\System.Web.WebPages.Razor.dll
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\WebGrease.dll
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\System.Web.Helpers.xml
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\System.Web.Mvc.xml
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\System.Web.Optimization.xml
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\System.Web.Razor.xml
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\System.Web.WebPages.xml
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\System.Web.WebPages.Deployment.xml
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\System.Web.WebPages.Razor.xml
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\Antlr3.Runtime.pdb
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\Newtonsoft.Json.xml
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\Microsoft.ApplicationInsights.xml
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ashwi\source\repos\TestApp\TestApp\bin\Microsoft.AI.Web.xml
+c:\users\ashwi\source\repos\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+c:\users\ashwi\source\repos\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+c:\users\ashwi\source\repos\TestApp\TestApp\obj\Debug\TestApp.dll
+c:\users\ashwi\source\repos\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\ashwi\source\repos\TestApp\TestApp\bin\GettingStarted.txt
+C:\Users\ashwi\source\repos\TestApp\TestApp\bin\Twitterizer2.license.txt
+C:\Users\ashwi\source\repos\TestApp\TestApp\bin\MongoDB.Bson.dll
+C:\Users\ashwi\source\repos\TestApp\TestApp\bin\MongoDB.Driver.Core.dll
+C:\Users\ashwi\source\repos\TestApp\TestApp\bin\MongoDB.Driver.dll
+C:\Users\ashwi\source\repos\TestApp\TestApp\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ashwi\source\repos\TestApp\TestApp\bin\Twitterizer2.dll
+C:\Users\ashwi\source\repos\TestApp\TestApp\bin\Twitterizer2.pdb
+C:\Users\ashwi\source\repos\TestApp\TestApp\bin\Twitterizer2.xml
+C:\Users\ashwi\source\repos\TestApp\TestApp\bin\MongoDB.Bson.xml
+C:\Users\ashwi\source\repos\TestApp\TestApp\bin\MongoDB.Driver.xml
+C:\Users\ashwi\source\repos\TestApp\TestApp\bin\MongoDB.Driver.Core.xml
+C:\Users\ashwi\source\repos\TestApp\TestApp\bin\MySql.Data.dll
+C:\Users\ashwi\source\repos\TestApp\TestApp\bin\MySql.Data.xml
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\ApplicationInsights.config
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\GettingStarted.txt
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\Twitterizer2.license.txt
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\TestApp.dll.config
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\TestApp.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\TestApp.pdb
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\Microsoft.AI.Web.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\MongoDB.Bson.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\MongoDB.Driver.Core.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\MongoDB.Driver.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\MySql.Data.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\System.Web.Helpers.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\System.Web.Mvc.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\System.Web.Optimization.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\System.Web.Razor.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\System.Web.WebPages.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\Twitterizer2.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\WebGrease.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\Twitterizer2.pdb
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\Twitterizer2.xml
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\MongoDB.Bson.xml
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\MongoDB.Driver.xml
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\MongoDB.Driver.Core.xml
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\MySql.Data.xml
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\System.Web.Helpers.xml
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\System.Web.Mvc.xml
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\System.Web.Optimization.xml
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\System.Web.Razor.xml
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\System.Web.WebPages.xml
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\bin\Microsoft.AI.Web.xml
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\obj\Debug\TestApp.dll
+C:\Users\DELL\Documents\MS Campaign\Fullerton\MS First Sem\Advanced Database\Project\Application\TestApp\TestApp\obj\Debug\TestApp.pdb

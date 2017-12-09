@@ -1,0 +1,87 @@
+﻿
+    
+@{
+    Layout = null;
+}
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/Style/StyleSheet1.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Tweets</title>
+    <script language="JavaScript" type="text/javascript">
+        
+        function chk() {
+            
+            
+            
+                var xmlHttp = new XMLHttpRequest();
+                
+                xmlHttp.open("GET","/Home/HelloWorld", true); // true for asynchronous 
+                xmlHttp.send(null);
+
+                //window.location.replace("/Home/Contact");
+                setTimeout("location.href = '/Home/Tweets';", 5000);
+
+            }
+           
+            
+              
+    
+    </script>
+</head>
+<body>
+    <button type="submit" class="button" value="Submit" onclick="chk()" >Retrive Tweets</button>
+    <form action="/Home/Tweets" method="get">
+        From Date:
+        <input type="date" name="startdate" id="startdate" name="startdate">
+        To Date:
+        <input type="date" name="enddate" id="enddate" name="enddate">
+        <select class="myselect" id="sentitype" name="sentitype">
+            <option value="" disabled selected>Sentiment Type</option>
+            <option value="Positive">Positive</option>
+            <option value="Negative">Negative</option>
+            <option value="Neutral">Neutral</option>
+        </select>
+        <button class="butt" type="submit">Filter</button>
+    </form>
+    <div>
+
+        <table class="table table-bordered table-responsive table-hover" id="tweets">
+            <tr>
+                <th>TweetId </th>
+                <th>Date </th>
+                <th>Tweet </th>
+                <th>Sentiment Type</th>
+                <th>Response Status </th>
+                <th>Message Link</th>
+                <th>Raise Ticket</th>
+                
+            </tr>
+            @foreach (var d in @ViewBag.MyTweets)
+            {
+                <tr>
+                    <td>@d.TweetId</td>
+                    <td width="160">@d.CreatedDate</td>
+                    <td>@d.Text</td>
+                    <td>@d.sentiment.SentimentType</td>
+                    <td>@d.ResponseStatus</td>
+                    <td><a target="_blank" href=@d.TweetLink>Send Message</a></td>
+                    <td><form class="form" action="/Home/Login" method="get"><button type="submit" value=@d.TweetId name="Tweetid" id="Tweetid">Raise Ticket</button></form></td>
+                    
+                   
+                    
+
+                </tr>
+            }
+        </table>  
+    
+    </div>
+
+
+</body>
+</html>

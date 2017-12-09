@@ -1,0 +1,21 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Views/Shared/Site.Master" Inherits="System.Web.Mvc.ViewPage<CalculatorModel>" %>
+
+    <% using ( Html.BeginForm("Sum", "Calculator", FormMethod.Post, new { id = "calcForm" }) ) { %>
+       <table border="0" cellpadding="3" cellspacing="1" width="100%">
+       <tr valign="top">
+           <td>
+              <%= Html.LabelFor(model => model.FirstOperand) %>
+              <%= Html.TextBoxFor(model => model.FirstOperand) %>
+           </td>
+       </tr>
+       <tr valign="top">
+           <td>
+              <%= Html.LabelFor(model => model.SecondOperand) %>
+              <%= Html.TextBoxFor(model => model.SecondOperand) %>
+           </td>
+       </tr>
+       </table>
+        <div style="text-align:right;">
+            <input type="submit" id="btnSum" value="Sum values" />
+        </div>
+    <% } %>

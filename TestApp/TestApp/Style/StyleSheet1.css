@@ -1,0 +1,70 @@
+﻿body {
+
+}
+.button {
+    background-color: #4268f4;
+    color: white;
+    margin: 45px 20px;
+    font-size: 25px;
+    border: 12px solid;
+    border-radius: 35px;
+    cursor: pointer;
+    text-align: center;
+}
+.butt {
+    background-color:grey;
+    color: white;
+    margin: 45px 20px;
+    font-size: 15px;
+   
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+}
+
+[type="date"] {
+    background: #fff url("https://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/calendar_2.png") 97% 50% no-repeat;
+}
+
+body {
+    font: 13px/1.4 Geneva, 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+input {
+    border: 1px solid #c4c4c4;
+    border-radius: 5px;
+    background-color: #fff;
+    padding: 3px 5px;
+    box-shadow: inset 0 3px 6px rgba(0,0,0,0.1);
+    width: 190px;
+}
+
+.myselect {
+    height: 29px;
+    width: 240px;
+    margin-left: 80px;
+}
+#tweets {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+}
+#tweets td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    
+}
+#tweets tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+#tweets tr:hover {
+    background-color: #ddd;
+}
+#tweets th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    font-size:16px;
+}

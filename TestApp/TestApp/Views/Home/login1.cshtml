@@ -1,0 +1,66 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>Log'n Load</title>
+
+
+    </script>
+
+
+
+
+
+    <link href="~/Style/StyleSheet2.css" rel="stylesheet" />
+
+
+</head>
+
+<body>
+
+    <div class="login">
+
+        <header class="header">
+
+            <span class="text">LOGIN</span>
+
+            <span class="loader"></span>
+
+        </header>
+
+        <form class="form"  action="/Home/Welcomee" method="get">
+            
+
+                <input class="input" type="text" , placeholder="Username",id="username" name="username">
+
+                <input class="input" type="password" placeholder="Password" id="password" name="password">
+
+                <button class="btn" type="submit"></button>
+
+            </form>
+        
+    </div>
+
+    
+    @if (@ViewBag.message == "wrong password")
+    {<h1>@ViewBag.message</h1>}
+
+
+    </script>
+
+
+</body>
+
+</html>
+
+
